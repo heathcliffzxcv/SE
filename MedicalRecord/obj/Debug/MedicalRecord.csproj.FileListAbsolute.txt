@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\bin\Debug\MedicalRecord.exe.config
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\bin\Debug\MedicalRecord.exe
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\bin\Debug\MedicalRecord.pdb
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.Login.resources
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.Main.resources
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.Properties.Resources.resources
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.Record.resources
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.Register.resources
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.Report.resources
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.Reserve.resources
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.Search.resources
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.exe
+C:\Users\User\source\repos\MedicalRecord\MedicalRecord\obj\Debug\MedicalRecord.pdb
